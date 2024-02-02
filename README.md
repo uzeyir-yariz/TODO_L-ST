@@ -1,2 +1,2 @@
-# TODO_L-ST
+# TODO_LIST
 iyi bir yapılacaklar listesi
